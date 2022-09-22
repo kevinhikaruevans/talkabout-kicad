@@ -1,0 +1,2 @@
+# talkabout-kicad
+KiCAD designs
