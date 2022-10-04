@@ -14,3 +14,5 @@ Uses a 6-input, 6-output scanning grid. Need to remove the silkscreen and cleanu
 Alignment is okay, it required a little filing to get it to fit:
 
 ![image](https://user-images.githubusercontent.com/4730591/193703465-4e4c9d88-7d91-4142-a117-cd7cca7e943b.png)
+
+This will be fine for testing and getting the scanning functionality working, but I think I will switch to a lower-profile surface-mount connector.
